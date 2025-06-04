@@ -1,7 +1,8 @@
 # Disclaimer
 This tool is for educational purposes only, this author does not endorse or promote any illegal activity and is not responsible for any damage done henceforth.
 
-I also highly recommend only testing this out using fake email addresses, and not personal email accounts
+I highly recommend only testing this out using fake email addresses, and not personal email accounts
+I also highly recommend saving all the files provided into the same folder.
 
 # Key-Logger
 A keylogger is a type of software or hardware that records every keystroke you type on a keyboard. It's often used to secretly capture sensitive information like passwords or messages.
